@@ -12,4 +12,4 @@ endif()
 project ("ModernCpp")
 
 # 包含子项目。
-add_subdirectory ("code")
+add_subdirectory ("test")
